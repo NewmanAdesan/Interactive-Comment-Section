@@ -38,7 +38,11 @@ It features desktop/mobile responsivity for an optimal user experience.
 
 <img src="./ReadMe-Images/rsz_1rsz_active-states.jpg" style="width:600px; height:auto">
 
-<img src="./ReadMe-Images/rsz_mobile-design.jpg" style="width:600px; height:auto">
+<img src="./ReadMe-Images/mobile-view-A.png" style="width:600px; height:auto" alt="Project Screenshot; Mobile view A">
+
+<img src="./ReadMe-Images/mobile-view-B.png" style="width:600px; height:auto" alt="Project Screenshot; Mobile view B">
+
+<img src="./ReadMe-Images/mobile-view-C.png" style="width:600px; height:auto" alt="Project Screenshot; Mobile view C">
 
 
 

@@ -164,7 +164,8 @@ Also, the fact that the ID of each comment is on the page<br />
 simplied the implementation of the single voting feature.<br />
 More on this later.
 
-`show snippets of getCommentSectionID & searchForCommentViaID`
+<img src="./ReadMe-Images/get-comment-section-id.svg" style="width:600px; height:auto">
+<img src="./ReadMe-Images/search-for-comment-via-id.svg" style="width:600px; height:auto">
 
 
 
@@ -197,7 +198,10 @@ with further tweaking added; such that,
   to search for its comment information in the comment data <br />
   that is located in the local storage of the browser.<br />
 
-`show snippets of handleDeleteButton(), handleModalDeleteButton(), handleModalDontDeleteButton()`
+<img src="./ReadMe-Images/handle-delete-button.svg" style="width:600px; height:auto">
+<img src="./ReadMe-Images/handle-modal-delete-button.svg" style="width:600px; height:auto">
+<img src="./ReadMe-Images/handle-modal-dont-delete-button.svg" style="width:600px; height:auto">
+
 
 #### 3. Comment Single Voting Feature
 Each user can either downvote or upvote a comment.<br />

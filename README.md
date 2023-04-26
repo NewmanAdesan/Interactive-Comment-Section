@@ -84,15 +84,19 @@ This project is fundamentally made of three elements:
 - a reply container section element
 
 
-<img src="./ReadMe-Images/rsz_comment_section_element.png" style="width:600px; height:auto">
+<img src="./ReadMe-Images/rsz_comment_section_element.png" style="width:600px; height:auto" alt="desktop view of a comment section element">
 
-<img src="./ReadMe-Images/rsz_comment-section-element-mobile_view_.png" style="width:600px; height:auto">
+<img src="./ReadMe-Images/rsz_comment-section-element-mobile_view_.png" style="width:600px; height:auto" alt="mobile view of a comment section element">
 
-<img src="./ReadMe-Images/rsz_11rsz_2reply_container_section_element.png" style="width:600px; height:auto">
+<img src="./ReadMe-Images/rsz_11rsz_2reply_container_section_element.png" style="width:600px; height:auto" alt="view of a reply container section element">
 
-<img src="./ReadMe-Images/rsz_reply_comment_section_element.png" style="width:600px; height:auto">
+<img src="./ReadMe-Images/rsz_reply_comment_section_element.png" style="width:600px; height:auto" alt="view of reply comment section element">
 
-<img src="./ReadMe-Images/Data1.svg" style="width:600px; height:auto">
+<img src="./ReadMe-Images/Data1.svg" style="width:600px; height:auto" alt="view of the structure of the NoSQL DataBase A">
+
+<img src="./ReadMe-Images/database-comments-property.svg" style="width:600px; height:auto" alt="view of the structure of the NoSQL DataBase B">
+
+<img src="./ReadMe-Images/database-comments-property-replies-property.svg" style="width:600px; height:auto" alt="view of the structure of the NoSQL DataBase C">
 <br /><br />
 
 
@@ -164,8 +168,8 @@ Also, the fact that the ID of each comment is on the page<br />
 simplied the implementation of the single voting feature.<br />
 More on this later.
 
-<img src="./ReadMe-Images/get-comment-section-id.svg" style="width:600px; height:auto">
-<img src="./ReadMe-Images/search-for-comment-via-id.svg" style="width:600px; height:auto">
+<img src="./ReadMe-Images/get-comment-section-id.svg" style="width:600px; height:auto" alt="show code snippet of the commentSectionID function">
+<img src="./ReadMe-Images/search-for-comment-via-id.svg" style="width:600px; height:auto" alt="show code snippet of the searchForCommentViaID function">
 
 
 
@@ -198,9 +202,9 @@ with further tweaking added; such that,
   to search for its comment information in the comment data <br />
   that is located in the local storage of the browser.<br />
 
-<img src="./ReadMe-Images/handle-delete-button.svg" style="width:600px; height:auto">
-<img src="./ReadMe-Images/handle-modal-delete-button.svg" style="width:600px; height:auto">
-<img src="./ReadMe-Images/handle-modal-dont-delete-button.svg" style="width:600px; height:auto">
+<img src="./ReadMe-Images/handle-delete-button.svg" style="width:600px; height:auto" alt="show code snippet of the handleDeleteButton function">
+<img src="./ReadMe-Images/handle-modal-delete-button.svg" style="width:600px; height:auto" alt="show code snippet of the handleModalDeleteButton function">
+<img src="./ReadMe-Images/handle-modal-dont-delete-button.svg" style="width:600px; height:auto" alt="show code snippet of the handleModalDontDeleteButton function">
 
 
 #### 3. Comment Single Voting Feature
@@ -221,7 +225,7 @@ Once the ID of the comment section is in this Array,<br />
 no matter the clicks on the voting icon <br />
 the comment score value will not increase
 
-`show snippet of the isVotedFor()`
+<img src="./ReadMe-Images/is-voted-for.svg" style="width:600px; height:auto" alt="show code snippet of the isVotedFor function">
 
 <br />
 
@@ -235,7 +239,7 @@ there is a property called `createdAt` that keeps track of the date and time the
 we compare the value with the present date and time<br />
 so we can know how long the comment/reply was posted.<br />
 
-`show snippet of the getDateDiff()`
+<img src="./ReadMe-Images/get-date-diff.svg" style="width:600px; height:auto" alt="show code snippet of the getDateDiff function">
 
 
 <br />

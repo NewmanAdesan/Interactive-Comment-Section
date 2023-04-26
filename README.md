@@ -34,7 +34,7 @@ It features desktop/mobile responsivity for an optimal user experience.
 
 ## Project Screenshots
 
-<img src="./ReadMe-Images/rsz_11desktop-design.jpg" style="width:600px; height:auto">
+<img src="./ReadMe-Images/desktop-view.png" style="width:600px; height:auto" alt="Project Screenshot; Desktop View">
 
 <img src="./ReadMe-Images/rsz_1rsz_active-states.jpg" style="width:600px; height:auto">
 

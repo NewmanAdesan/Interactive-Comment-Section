@@ -34,14 +34,11 @@ It features desktop/mobile responsivity for an optimal user experience.
 
 ## Project Screenshots
 
-![App Screenshot](./ReadMe-Images/rsz_11desktop-design.jpg)
+<img src="./ReadMe-Images/rsz_11desktop-design.jpg" style="width:600px; height:auto">
 
+<img src="./ReadMe-Images/rsz_1rsz_active-states.jpg" style="width:600px; height:auto">
 
-![App Screenshot](./ReadMe-Images/rsz_1rsz_active-states.jpg)
-
-<center>
-<img src="./ReadMe-Images/rsz_mobile-design.jpg">
-</center>
+<img src="./ReadMe-Images/rsz_mobile-design.jpg" style="width:600px; height:auto">
 
 
 

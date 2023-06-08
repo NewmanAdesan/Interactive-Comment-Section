@@ -6,7 +6,6 @@
   <img src="https://img.shields.io/badge/HTML-E34F26.svg" alt="HTML badge" style="height: 25px;">
   <img src="https://img.shields.io/badge/CSS-1572B6.svg" alt="CSS badge" style="height: 25px;"> 
   <img src="https://img.shields.io/badge/JS-F7DF1E.svg" alt="JS badge" style="height: 25px;">
-  <img src="https://img.shields.io/badge/NoSQL-4DB33D.svg" alt="NoSQL badge" style="height: 25px;">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C.svg" alt="Bootstrap badge" style="height: 25px;">
   <img src="https://img.shields.io/badge/CSS_Normalization-008080.svg" alt="CSS Normalization badge" style="height: 25px;">
   <img src="https://img.shields.io/badge/Desktop_First_Design-333333.svg" alt="Desktop First Design badge" style="height: 30px;">
